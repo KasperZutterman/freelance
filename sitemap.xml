@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><!-- sitemap-generator-url="http://www.arnebrachhold.de" sitemap-generator-version="4.1.1" -->
-<!-- generated-on="November 19, 2020 7:56 pm" -->
+<!-- generated-on="November 21, 2020 1:02 pm" -->
 <sitemapindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/siteindex.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	<sitemap>
-		<loc>https://freelance.kasperzutterman.com/sitemap-misc.xml</loc>
-		<lastmod>2020-11-14T17:41:49+00:00</lastmod>
+		<loc>http://PLACEHOLDER.wpsho//sitemap-misc.xml</loc>
+		<lastmod>2020-11-21T12:18:05+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://freelance.kasperzutterman.com/sitemap-pt-post-2020-11.xml</loc>
+		<loc>http://PLACEHOLDER.wpsho//sitemap-pt-post-2020-11.xml</loc>
 		<lastmod>2020-11-14T16:33:00+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://freelance.kasperzutterman.com/sitemap-pt-page-2020-11.xml</loc>
-		<lastmod>2020-11-14T17:41:49+00:00</lastmod>
+		<loc>http://PLACEHOLDER.wpsho//sitemap-pt-page-2020-11.xml</loc>
+		<lastmod>2020-11-21T12:18:05+00:00</lastmod>
 	</sitemap>
-</sitemapindex><!-- Request ID: 8acee121aeea74548208c0f64cb5e405; Queries for sitemap: 5; Total queries: 37; Seconds: 0; Memory for sitemap: 0MB; Total memory: 2MB -->
+</sitemapindex><!-- Request ID: 5db6997960d843687957d6eeafceb462; Queries for sitemap: 5; Total queries: 34; Seconds: 0; Memory for sitemap: 0MB; Total memory: 2MB -->

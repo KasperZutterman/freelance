@@ -4,4 +4,4 @@ Allow: /wp-admin/admin-ajax.php
 
 Sitemap: http://PLACEHOLDER.wpsho//wp-sitemap.xml
 
-Sitemap: https://freelance.kasperzutterman.com/sitemap.xml
+Sitemap: http://PLACEHOLDER.wpsho//sitemap.xml
