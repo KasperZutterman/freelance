@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><!-- sitemap-generator-url="http://www.arnebrachhold.de" sitemap-generator-version="4.1.1" -->
-<!-- generated-on="November 19, 2020 8:00 pm" -->
+<!-- generated-on="November 22, 2020 4:58 pm" -->
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	<url>
 		<loc>https://freelance.kasperzutterman.com/</loc>
-		<lastmod>2020-11-14T13:50:29+00:00</lastmod>
+		<lastmod>2020-11-20T16:51:14+00:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>1.0</priority>
 	</url>
 	<url>
 		<loc>https://freelance.kasperzutterman.com/sitemap.html</loc>
-		<lastmod>2020-11-14T17:41:49+00:00</lastmod>
+		<lastmod>2020-11-22T16:53:02+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
-</urlset><!-- Request ID: af0c25f1e1acd8b47b07d7b10f38da03; Queries for sitemap: 4; Total queries: 40; Seconds: 0; Memory for sitemap: 0MB; Total memory: 2MB -->
+</urlset><!-- Request ID: 74afef619aec21c2b3427b51b8c83bdc; Queries for sitemap: 4; Total queries: 29; Seconds: 0; Memory for sitemap: 0MB; Total memory: 2MB -->
